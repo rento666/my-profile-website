@@ -75,5 +75,5 @@ $('.btn-mobile-menu__icon').click(function () {
 	} else {
 		$('.navigation-wrapper').toggleClass('visible animated bounceInDown');
 	}
-	$('.btn-mobile-menu__icon').toggleClass('social iconfont icon-list social iconfont icon-angleup animated fadeIn');
+	$('.btn-mobile-menu__icon').toggleClass('social iconfont icon-unorderedlist social iconfont icon-angle-up animated fadeIn');
 });
