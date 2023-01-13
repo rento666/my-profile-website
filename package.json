@@ -1,0 +1,23 @@
+{
+  "name": "@mitr-yuzr/vno-dmego-yuzr",
+  "version": "1.0.1",
+  "description": "🌸 veno-dmego-yuzr 个人主页美化模板",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitr-yuzr/vno-dmego-yuzr.git"
+  },
+  "keywords": [
+    "home",
+    "theme"
+  ],
+  "author": "mitr-yuzr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mitr-yuzr/vno-dmego-yuzr/issues"
+  },
+  "homepage": "https://github.com/Mitr-yuzr/vno-dmego-yuzr#readme"
+}
