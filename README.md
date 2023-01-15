@@ -11,6 +11,7 @@
   - 在这里推荐[爱搜](https://imgapi.xl0408.top/index.php)和[呓喵酱](https://api.yimian.xyz/img?type=moe&size=1920x1080)的API，又快又稳，我用的是前者，后者质量更高但是风景图偏多。
 - 添加了备案的页脚
 - 发布了npm包，对一些你们不会修改的资源使用了unpkg加速（使用饿了么国内镜像）
+- 增加了樱花特效（后来更新的，预览里没有，可以去[我的个人主页看](https://reincarnatey.net)）
 
 ## 预览
 
